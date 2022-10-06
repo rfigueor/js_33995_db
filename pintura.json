@@ -1,0 +1,14 @@
+{
+   "pintura":[
+      {
+         "id":1,
+         "nombre":"Casa",
+         "nota":"(Obs: 1 Solo piso)"
+      },
+      {
+         "id":2,
+         "nombre":"Edificio",
+         "nota":"(Obs: Se agrega 5% extra al valor del mt2 por cada piso a contar desde 2do piso)"
+      }
+   ]
+}
