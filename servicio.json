@@ -1,0 +1,12 @@
+{
+   "servicios":[
+      {
+         "id":1,
+         "nombre":"Trabajo de Pintura"
+      },
+      {
+         "id":2,
+         "nombre":"Construcción de Radier"
+      }
+   ]
+}
